@@ -5,7 +5,7 @@
 
 [Lista de exercícios](https://wiki.python.org.br/ListaDeExercicios)
 
-## Primeiro Exercício
+## Segundo Exercício
 
 Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
 
